@@ -1,0 +1,4 @@
+깃을 배우는 중
+git init
+git add
+git status
