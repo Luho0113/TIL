@@ -1,2 +1,7 @@
 ## Today I Learned
-This is where I practice and record what I learned in the lectures every day.
+1. Listening lessons
+2. practice by ownself
+3. write in notes
+    - I mainly use notion :D
+4. Don't give up!
+
